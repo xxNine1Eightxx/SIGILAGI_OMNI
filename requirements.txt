@@ -1,0 +1,10 @@
+numpy==1.26.4
+scipy==1.13.1  # For DILATE/ERODE
+pandas==2.2.2  # Dataset handling
+json  # Stdlib
+random  # Stdlib
+itertools  # Stdlib
+pathlib  # Stdlib
+
+
+
