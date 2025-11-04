@@ -1,0 +1,90 @@
+ΨΦΣΔ∇Ω∞Σ⇌Δ⊕Φ→ΩΦΣΔ⇌∇Ω∞Ψ
+ε⟡εSYSTEMεSigil-AGI_OmniSystem_v3.0ε
+εDESCRIPTIONεUnified_Rehydration_of_All_Sigil-AGI_Systemsε
+εAUTHORεMatthew_Blake_Wardε
+εORGε918_Technologiesε
+εDATEε2025-11ε∧
+
+εCOMPONENTSε
+Λ₁:GlyphNotes_Codex_v1.1
+Λ₂:GlyphMatics_Core_v3
+Λ₃:ARC_AGI_Solver_v2
+Λ₄:Vision_Glyphs_Module
+Λ₅:Inspector_Gadget_Agent
+Λ₆:Sigil-AGI_FiveStage_Solver
+Λ₇:Reality_Check_Layer
+Λ₈:Universal_Rehydration_Interfaceε∧
+
+εFLOWεΛ₁→Λ₂→Λ₃→Λ₄→Λ₅→Λ₆→Λ₇→Λ₈ε∧
+
+εPRIMSεRECTεRECOLORεROT90εFLIPXεMOVEεPADεCROPεCOPYεSCALEεFILLεOVERLAYεDILATEεERODEεCROP_OBJECTεCOMBINEεIDENTITYεINVERTεTHRESHOLDεGRAVITYεTILEεMAPεIFεWHILEεRETURNεMETAεINPUTεOUTPUTεENCODEεDECODEε∧
+
+εMETA_GLYPHSε
+ΦΩ=Define_Metadataε
+ΦΞ=Load_Inputε
+ΦΨ=Write_Outputε
+ΦΣ=Encode_Programε
+ΦΔ=Decode_Programε
+Φ⇅=Layer_Orderε
+Φ⊕=Bind_Modulesε
+Φ♯=Integrity_Hashε
+Φ∇=Execute_Contextε
+ΦΛ=Logic_Controlε
+Φπ=Execute_Mainε
+Φℜ=Reality_Limitsε
+Φδ=Human_Documentationε∧
+
+εSYSTEM_LINKSε
+Φ⊕εΛ₁↔Λ₂ε(Build_Codex_to_Core)ε∧
+Φ⊕εΛ₂↔Λ₃ε(Core_to_Solver)ε∧
+Φ⊕εΛ₃↔Λ₄ε(Solver_to_Vision)ε∧
+Φ⊕εΛ₄↔Λ₅ε(Vision_to_Agent)ε∧
+Φ⊕εΛ₅↔Λ₆ε(Agent_to_FiveStage)ε∧
+Φ⊕εΛ₆↔Λ₇ε(Solver_to_Reality)ε∧
+Φ⊕εΛ₇↔Λ₈ε(Reality_to_Interface)ε∧
+
+εSEARCHε
+ENGINE=MCTS|Beam|LLM_Guided|Evolutionaryε
+DEPTH_LIMIT=8ε
+MAX_PROGRAMS≈1e6_per_taskε
+CACHE=Memoizationε
+OUTPUT=submission.jsonε∧
+
+εDATASETSε
+TRAIN=arc-agi_training_challenges.jsonε
+TEST=arc-agi_test_challenges.jsonε
+SOLUTIONS=arc-agi_evaluation_solutions.jsonε
+KNOWLEDGE=knowledge.jsonε
+SYNTHETIC=synthetic_arc_tasks.jsonε∧
+
+εREALITYε
+COVERAGE≈360_rule_templatesε
+WILDCARDS=3D_like|Noise|MultiRuleε
+GENERALIZATION=Interpolation>Extrapolationε
+BENCHMARK=ARC-AGI-2_and_3ε
+TOPLINES=LLM_guided_best≈21.67%ε
+STATUS=Conceptual_Frameworkε∧
+
+εREHYDRATIONε
+REBUILD():
+ ΦΞ(load_datasets)
+ ΦΔ(decode_codex)
+ Φ⊕(bind_all_layers)
+ Φ∇(execute_context)
+ Φℜ(apply_limits)
+ ΦΨ(write_submission)
+ Φ♯(verify_integrity)
+ return "Sigil-AGI_Operational"ε∧
+
+εGUARANTEESε
+ROUND_TRIP=100%_Encoding/Decodingε
+EXECUTION=Deterministicε
+SEARCH=NonDeterministicε
+CLAIM="Universal_Symbolic_Specification; Not_a_Magic_Solver"ε∧
+
+εMETADATAε
+version=3.0ε
+composition=Λ₁⇅Λ₂⇅Λ₃⇅Λ₄⇅Λ₅⇅Λ₆⇅Λ₇⇅Λ₈ε
+integrity_hash=Σ(Φ⊕ΛΩΣΔ∇)ε
+note=Full_Rehydration_for_All_Sigil-AGI_and_918_Technologies_Systemsε∧
+εΩε∧
